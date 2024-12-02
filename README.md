@@ -1,4 +1,4 @@
-# Ex2p
+# Ex2p / Ex2pO
 Extra lens mount for 2-photon microscope
  - extend imaging capability
  - excitation of neurons by optogenetic stimulation with narrow-band laser
@@ -8,3 +8,6 @@ Extra lens mount for 2-photon microscope
 # Hardware
  - Construction parts list is listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing).
  - Analog discovery 2 (Digilent) is used to generate TTL signal for stimulation.
+
+## Configulation of Laser modulation
+Using Analog discovery 2 with custom-made PCB board, TTL for laser modulation were easily configulable.
