@@ -3,11 +3,16 @@ Extra lens mount for 2-photon microscope
  - extend imaging capability
  - excitation of neurons by optogenetic stimulation with narrow-band laser
 
-<img width="1101" alt="image" src="https://github.com/rysk-t/ex1p/assets/3614987/ad0eed6d-5e7d-4a30-ba98-2ed378831c23">
+<img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/summary.png">
 
-# Hardware
- - Construction parts list is listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing).
+# Hardwares
+ - Construction parts list is listed in this [link]
  - Analog discovery 2 (Digilent) is used to generate TTL signal for stimulation.
 
-## Configulation of Laser modulation
+## Construction
+<img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/construction.png">
+
+Red colored parts are oritinal parts for Ex2p Nikon version. [3d-data files (.stl)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts).
+
+## Circuits configuration
 Using Analog discovery 2 with custom-made PCB board, TTL for laser modulation were easily configulable.
