@@ -12,7 +12,13 @@ Extra lens mount for 2-photon microscope
 ## Construction
 <img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/construction.png">
 
-Red colored parts are oritinal parts for Ex2p Nikon version. [3d-data files (.stl)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts).
+Red colored parts are oritinal parts for Ex2p Nikon version.
+Most of parts were commercial parts from Thorlab.
+
+[3d-data files (.stl)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts).
 
 ## Circuits configuration
 Using Analog discovery 2 with custom-made PCB board, TTL for laser modulation were easily configulable.
+<img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/AD2_interface_card.png">
+[PCB files (.grb)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts/breakoutboard).
+
