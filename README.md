@@ -15,17 +15,18 @@ Extra lens mount for 2-photon microscope
 
 <img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/construction.png">
 
- - Red colored parts are oritinal parts for Ex2p Nikon version.
- - Most of parts were commercial parts from Thorlab.
+ - Red-colored parts are the original parts of the Ex2p Nikon version.
+ - Most of the parts were commercial parts from Thorlab.
  - FC/APC laser input ports were attached to the dichroic mount.
-   - Various narrow-band and fast switchable LD laser sources are recommended (e.g. Omicron Luxx+, Coherent OBIS LX).
+   - Various narrow-band and fast switchable LD laser sources are recommended (e.g., Omicron Luxx+, Coherent OBIS LX).
   
 [3d-data files (.stl)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts).
 
 ## Circuits configuration
-Using Analog discovery 2 with custom-made PCB board, TTL for laser modulation were easily configulable.
+Using Analog Discovery 2 with a custom-made breakout board, TTL for laser modulation was quickly configurable.
 <img width="640" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/AD2_interface_card.png">
 
 
 [PCB files (.grb)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts/breakoutboard).
 
+breakout board designed by Kota OKADA and Ryosuke TAKEUCHI (Nagoya University)
