@@ -13,6 +13,11 @@ Extra lens mount for 2-photon microscope
 
 ## Construction
 
+## Ex2p
+<img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/construction_ex2p.png">
+
+
+## Ex2pO
 <img width="1101" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/construction.png">
 
  - Red-colored parts are the original parts of the Ex2p Nikon version.
