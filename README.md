@@ -2,13 +2,15 @@
 Extra lens mount for 2-photon microscope
  - extend imaging capability
  - excitation of neurons by optogenetic stimulation with narrow-band laser
- - 
-|Imaging flexibility|Optogenetical stimulation|
+
+
+|Imaging flexibility|Optogenetical stimulation (under-filled setting)|
 |---|---|
 |<img width="960" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/summary.png"> | <img width="320" alt="image" src="https://github.com/rysk-t/ex2p/blob/main/imgs/stimulation.png">|
 
+
 # Hardwares
- - Construction parts list is listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing)
+ - Construction parts are listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing)
  - Analog discovery 2 (Digilent) is used to generate TTL signal for stimulation.
 
 ## Construction
