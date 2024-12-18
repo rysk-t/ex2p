@@ -10,7 +10,7 @@ Extra lens mount for 2-photon microscope
 
 
 # Hardwares
- - Construction parts list is listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing)
+ - Construction parts are listed in this [link](https://docs.google.com/spreadsheets/d/1m83LMHQkvfFSLj0JxW27Dom7R-7Ju0coneMxOGsIGas/edit?usp=sharing)
  - Analog discovery 2 (Digilent) is used to generate TTL signal for stimulation.
 
 ## Construction
