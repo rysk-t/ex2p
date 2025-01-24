@@ -1,5 +1,5 @@
 # Quick guide for Ex2pO
- - Ex2oP utilizes Thorlabs 30 mm cage system for main construction.
+ - Ex2pO utilizes Thorlabs 30 mm cage system for main construction.
  - FC/APC laser input ports were attached to the dichroic mount.
    - Various narrow-band and fast switchable LD laser sources are recommended (e.g. Omicron Luxx+, Coherent OBIS LX).
    - for precise alignment, Thorlabs SM05 kinematic mount is recommended.
