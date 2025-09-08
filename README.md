@@ -37,3 +37,6 @@ Using Analog Discovery 2 with a custom-made breakout board, TTL for laser modula
 [PCB files (.grb)  are available](https://github.com/rysk-t/ex2p/tree/main/Ex2pO_parts/breakoutboard).
 
 breakout board designed by Kota OKADA and Ryosuke TAKEUCHI (Nagoya University)
+
+# Citation
+Takeuchi, R. F., Ishida, R., Kamaguchi, R., Nishimura, M., Tsutsumi, K., Ito, K. N., Adachi, S., Isobe, K., & Osakada, F. (2025). An extension module for a two-photon microscope enables flexible in vivo imaging and all-optical physiology. iScience, 113525.
