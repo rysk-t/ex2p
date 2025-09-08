@@ -40,3 +40,5 @@ breakout board designed by Kota OKADA and Ryosuke TAKEUCHI (Nagoya University)
 
 # Citation
 Takeuchi, R. F., Ishida, R., Kamaguchi, R., Nishimura, M., Tsutsumi, K., Ito, K. N., Adachi, S., Isobe, K., & Osakada, F. (2025). An extension module for a two-photon microscope enables flexible in vivo imaging and all-optical physiology. iScience, 113525.
+
+[https://doi.org/10.1016/j.isci.2025.113525](https://doi.org/10.1016/j.isci.2025.113525)
